@@ -1,0 +1,2 @@
+# 7temp-mail
+7templateintigrated_with_email_sending
